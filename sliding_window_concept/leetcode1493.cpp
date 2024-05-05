@@ -16,7 +16,7 @@ public:
             }
             // valid subarray check arennge
             // valid subarray ka condition ye h ki subarray me maximun 1 hi zero ho 
-            // 1 se jyada zero mila to invalid ho jayega aur ham zero ko kam karna suru karenge 
+            // 1 se jyada zero mila to invalid ho jayega aur ham zero ko kam karna suru karenge ,,,piche se nikalte jao
             // jab valid n ban jay.....
             for( ;count_0>1;l++){
                 if(nums[l]==0){
